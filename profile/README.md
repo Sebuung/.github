@@ -1,6 +1,5 @@
-# Sebuung
+# 세붕
 
-Hi there! 😊
+https://open.kakao.com/o/gXogQnJe
 
-
-We are HighSchool IT community
+세명컴퓨터고등학교에서 출발한 IT 커뮤니티
